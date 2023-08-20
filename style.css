@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+h1,
+h2 {
+  font-family: Lato;
+  color: antiquewhite;
+}
